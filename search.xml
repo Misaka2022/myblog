@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/09/09/hello-world/"/>
-      <url>/2022/09/09/hello-world/</url>
+      <title>Happy Mid-Autumn festival</title>
+      <link href="/2022/09/10/%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90/"/>
+      <url>/2022/09/10/%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="祝全国人民中秋快乐，全国老师教师节快乐！"><a href="#祝全国人民中秋快乐，全国老师教师节快乐！" class="headerlink" title="祝全国人民中秋快乐，全国老师教师节快乐！"></a>祝全国人民中秋快乐，全国老师教师节快乐！</h2><p>2022年9月5日四川甘孜泸定县6.8级地震发生后，灾情牵动着每个人的心情。在中秋佳节来临之际，特此希望灾情有所缓和，疫情早日退去。最后祝愿全国人民中秋快乐，受灾群众平安安度中秋，全国教师节日快乐！</p>]]></content>
       
       
+      <categories>
+          
+          <category> 中秋祝福 </category>
+          
+          <category> 教师节祝福 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 祝福语 </tag>
+            
+        </tags>
       
     </entry>
     
