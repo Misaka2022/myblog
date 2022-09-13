@@ -33,10 +33,26 @@
   <link rel="stylesheet" href="/lib/iconfont/iconfont.css">
   <link rel="stylesheet" href="/lib/fancybox/css/jquery.fancybox.min.css">
   <link rel="stylesheet" href="https://unpkg.com/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css">
+  <!-- require APlayer -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<!-- require MetingJS -->
+  <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+  <meting-js
+      server="tencent"
+      type="playlist"
+      id="3470063784"
+      mutex="mutex:false"
+      listmaxheight="340px" 
+      preload="none" 
+      theme="#ad7a86"
+      width="50%">
+  </meting-js> 
+
   
     <link rel="stylesheet" href="//at.alicdn.com/t/font_2421060_8z08qcz5sq3.css">
   
-  <link rel="stylesheet" href="/css/style.css?v=1662982436551">
+  <link rel="stylesheet" href="/css/style.css?v=1663051037114">
 <meta name="generator" content="Hexo 6.3.0"></head>
 <body class="mdui-drawer-body-left">
   
@@ -44,7 +60,7 @@
     <!-- /images/background/5.jpeg -->
     <div class="nexmoe-bg" style="background:url(/images/background/5.jpeg)"></div>
     <!-- /images/background/6.jpeg -->
-    <div class="nexmoe-small" style="background:url(/images/background/6.jpeg)repeat-x;left:-10.5vw"></div>
+    <div class="nexmoe-small" style="background:url(/images/background/6.jpeg)repeat-x;"></div>
     <div class="mdui-appbar mdui-shadow-0">
       <div class="mdui-toolbar">
         <a mdui-drawer="{target: '#drawer', swipe: true}" title="menu" class="mdui-btn mdui-btn-icon mdui-ripple"><i class="mdui-icon nexmoefont icon-menu"></i></a>
@@ -329,7 +345,6 @@
         </div>
     </div>
   </div>
- 
   <script src="https://unpkg.com/lazysizes@5.1.0/lazysizes.min.js"></script>
 <script src="https://cdn.staticfile.org/highlight.js/10.0.0/highlight.min.js"></script>
 <script src="https://unpkg.com/mdui@0.4.3/dist/js/mdui.min.js?v=1"></script>
@@ -342,7 +357,7 @@
 <script src="/lib/fancybox/js/jquery.fancybox.min.js"></script>
 
 
-<script src="/js/app.js?v=1662982436557"></script>
+<script src="/js/app.js?v=1663051037123"></script>
 
 <script src="https://unpkg.com/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
 <script>
@@ -358,6 +373,7 @@
 
 
 
+  <!-- https://i.y.qq.com/n2/m/share/details/taoge.html?id=3470063784 -->
 <!-- hexo injector body_end start -->
 <script src="/js/clock.js"></script>
 
@@ -397,9 +413,9 @@
   name: "热心市民", // 选填: 用户名
   signed_up: 1449821660 // 选填: 用户的注册时间，用Unix时间戳表示
 });
-daovoice('update');
-  daovoice('init', {
-  app_id: "f1aff2c0"
+ daovoice('update');
+   daovoice('init', {
+   app_id: "f1aff2c0"
 });
 daovoice('update');
 </script>
